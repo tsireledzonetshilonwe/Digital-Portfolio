@@ -3,8 +3,6 @@
 ## 🧾 Evidence  
 After completing my CV, I submitted it as part of the Career Readiness Training. The submission followed the provided guidelines, including correct formatting, file naming, and structure.
 
-## 📄 [Download My CV](asssets/Tsireledzo_Netshilonwe_CV.pdf)  
-
 ## 📸 CV Submission Proof  
 ![Screenshot 2025-05-23 191631](https://github.com/user-attachments/assets/3eb8d5b2-a0ae-432e-8ac6-702078023225)
   
