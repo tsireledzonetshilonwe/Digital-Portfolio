@@ -34,7 +34,7 @@ Each section highlights an important aspect of my professional and personal grow
 - 🔹 [📝 Create a CV](./cv/README.md)  
   *From workshop to a polished CV — my learning experience.*
 
-- 🔹 [📬 CV Submission](create-cv/README.md)  
+- 🔹 [📬 CV Submission](./create-cv/README.md)  
   *What I learned from submitting my first professional CV.*
 
 ---
