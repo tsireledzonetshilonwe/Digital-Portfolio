@@ -43,10 +43,10 @@ Each section highlights an important aspect of my professional and personal grow
 
 Supporting documents from my portfolio journey:
 
-- [📄 Career Counselling Worksheet](./artefacts/career-counselling.pdf)  
-- [📊 Skills & Interests Exercise](./artefacts/skills-interests.pdf)  
+- [📄 Career Counselling Worksheet](asssets/career-quiz.png)  
+- [📊 Skills & Interests Exercise](asssets/skills-interests-quiz.png)  
 - [🧾 Personality Assessment Report](./artefacts/personality-assessment.pdf)  
-- [🧾 My CV (PDF)](./artefacts/cv.pdf)  
+- [🧾 My CV (PDF)](asssets/Tsireledzo_Netshilonwe_CV.pdf)  
 
 ---
 
