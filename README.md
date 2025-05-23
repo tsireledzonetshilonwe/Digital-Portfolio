@@ -45,7 +45,7 @@ Supporting documents from my portfolio journey:
 
 - [📄 Career Counselling Worksheet](asssets/career-quiz.png)  
 - [📊 Skills & Interests Exercise](asssets/skills-interests-quiz.png)  
-- [🧾 Personality Assessment Report](./artefacts/personality-assessment.pdf)  
+- [🧾 Personality Assessment Report](asssets/personality-assessment-quiz.png)  
 - [🧾 My CV (PDF)](asssets/Tsireledzo_Netshilonwe_CV.pdf)  
 
 ---
