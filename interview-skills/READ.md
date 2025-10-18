@@ -5,7 +5,7 @@
 As part of my preparation for future employment, I completed an **Interview Skills training and assessment**. This module focused on developing essential abilities for professional interviews — from crafting strong responses to demonstrating confidence and professionalism.
 
 The assessment tested my ability to organize my answers effectively, respond to situational questions, and present my strengths clearly and convincingly. The results highlight my readiness to perform well in both **technical** and **behavioral interviews**.
-
+(./asssets/interview-skills.jpeg) 
 ---
 
 ### ✍️ Reflection (STAR Technique)
