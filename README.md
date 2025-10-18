@@ -67,13 +67,12 @@ Here are key artefacts that support my learning journey:
 | 📄 **Career Counselling Worksheet** | ![Career Counselling Worksheet](./asssets/career-quiz.png) | Understanding my ideal career path and professional goals. |
 | 📊 **Skills & Interests Exercise** | ![Skills & Interests Quiz](./asssets/skills-interests-quiz.png) | Identifying strengths, weaknesses, and key development areas. |
 | 🧾 **Personality Assessment Report** | ![Personality Assessment Quiz](./asssets/personality-assessment-quiz.png) | Gaining insights into my work style and collaboration approach. |
-| ✉️ **Business Communication Tasks** | ![]() | Practicing professional email etiquette and communication formats. |
-| 🎤 **Interview Skills Practice** | ![]() | Learning how to prepare for and respond effectively in interviews. |
-| 🗣️ **Mock Interview Reflection** | ![]() | Simulated interview experience and feedback-based improvement. |
-| 🧑‍💼 **Workplace Etiquette** | ![]() | Understanding expected behaviour and professionalism in the workplace. |
+| ✉️ **Business Communication Tasks** | ![Business Communication](./asssets/business-communication.jpeg) | Practicing professional email etiquette and communication formats. |
+| 🎤 **Interview Skills Practice** | ![Interview Skills](./asssets/interview-skills.jpeg) | Learning how to prepare for and respond effectively in interviews. |
+| 🧑‍💼 **Workplace Etiquette** | ![Workplace Etiquette](./asssets/workplace-etiquette.jpeg) | Understanding expected behaviour and professionalism in the workplace. |
 | 🤝 **Professional Networking Exercise** | ![Professional Networking](./asssets/professional-networking.jpeg) | Building strategies and tools for networking in the ICT industry. |
 | 📜 **My CV (PDF)** | [View My CV](./asssets/Tsireledzo_Netshilonwe_CV.pdf) | My first professional CV, built using feedback and reflection. |
-## 📎 Artefacts
+| 🗣️ **Mock Interview Reflection** |[Mock Interview](https://github.com/wil-it2025/cv-tutorial-tsireledzonetshilonwe.git)| Simulated interview experience and feedback-based improvement. |
 
 
 ---
