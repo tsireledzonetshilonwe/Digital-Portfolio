@@ -6,7 +6,6 @@ After completing my CV, I submitted it as part of the Career Readiness Training.
 ## 📸 CV Submission Proof  
 ![Screenshot 2025-05-23 191631](https://github.com/user-attachments/assets/3eb8d5b2-a0ae-432e-8ac6-702078023225)
 
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/9761fbc4-2cc7-4877-8916-b53f929314ff" />
 
   
 # 💼 Career Readiness Reflection (STAR Technique)
