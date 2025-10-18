@@ -9,7 +9,7 @@ As part of my professional growth, I completed a **Business Communication** asse
 - Non-verbal cues and digital etiquette  
 
 The assessment demonstrated my understanding and application of professional communication skills in real-world scenarios.
-
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ced5ff30-2403-4cd9-bf83-f040d4607c44" /> 
 ---
 
 ✍️ **Reflection (STAR Technique)**
@@ -28,7 +28,7 @@ My goal was to complete the course and assessment while improving my ability to 
 
 **✅ Result:**  
 I successfully completed the assessment, confirming my ability to communicate professionally. These skills have since improved my workplace interactions, helping me convey ideas clearly, write structured reports, and participate effectively in meetings.
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ced5ff30-2403-4cd9-bf83-f040d4607c44" />
+
 
 ---
 
