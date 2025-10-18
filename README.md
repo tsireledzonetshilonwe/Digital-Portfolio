@@ -69,7 +69,6 @@ Here are key artefacts that support my learning journey:
 | 🧾 **Personality Assessment Report** | ![Personality Assessment Quiz](./asssets/personality-assessment-quiz.png) | Gaining insights into my work style and collaboration approach. |
 | 📜 **My CV (PDF)** | [View My CV](./asssets/Tsireledzo_Netshilonwe_CV.pdf) | My first professional CV, built using feedback and reflection. |
 
-> ⚠️ *Make sure the folder name is `assets/` (not `asssets/`) for images to display correctly.*
 
 ---
 
