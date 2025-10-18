@@ -8,7 +8,7 @@ The Mock Interview assignment provided a practical evaluation of my interview sk
 - Professional presentation and demeanor  
 - Use of structured frameworks like STAR  
 
-You can watch my mock interview recording here: [Watch My Mock Interview Recording](https://github.com/wil-it2025/cv-tutorial-tsireledzonetshilonwe.git)
+You can watch my mock interview recording here: [Mock Interview](https://github.com/wil-it2025/cv-tutorial-tsireledzonetshilonwe.git)
 
 ---
 
