@@ -68,6 +68,12 @@ Here are key artefacts that support my learning journey:
 | 📊 **Skills & Interests Exercise** | ![Skills & Interests Quiz](./asssets/skills-interests-quiz.png) | Identifying strengths, weaknesses, and key development areas. |
 | 🧾 **Personality Assessment Report** | ![Personality Assessment Quiz](./asssets/personality-assessment-quiz.png) | Gaining insights into my work style and collaboration approach. |
 | 📜 **My CV (PDF)** | [View My CV](./asssets/Tsireledzo_Netshilonwe_CV.pdf) | My first professional CV, built using feedback and reflection. |
+| ✉️ **Business Communication Tasks** | ![]() | Practicing professional email etiquette and communication formats. |
+| 🎤 **Interview Skills Practice** | ![]() | Learning how to prepare for and respond effectively in interviews. |
+| 🗣️ **Mock Interview Reflection** | ![]() | Simulated interview experience and feedback-based improvement. |
+| 🧑‍💼 **Workplace Etiquette** | ![]() | Understanding expected behaviour and professionalism in the workplace. |
+| 🤝 **Professional Networking Exercise** | ![]() | Building strategies and tools for networking in the ICT industry. |
+## 📎 Artefacts
 
 
 ---
