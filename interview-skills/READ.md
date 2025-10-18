@@ -6,7 +6,9 @@ As part of my preparation for future employment, I completed an **Interview Skil
 
 The assessment tested my ability to organize my answers effectively, respond to situational questions, and present my strengths clearly and convincingly. The results highlight my readiness to perform well in both **technical** and **behavioral interviews**.
 
-![Interview Quiz](./asssets/interview-skills.jpeg) 
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/96e34cbd-6a25-4291-afcd-41b56b5de10c" />
+
+
 ---
 
 ### ✍️ Reflection (STAR Technique)
