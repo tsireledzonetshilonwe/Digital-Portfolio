@@ -2,45 +2,46 @@
 
 🧾 **Evidence**
 
-Understanding and practicing professional conduct is essential for success in any work environment. I completed a formal assessment on **Workplace Etiquette**, covering key areas such as:
+Professional behavior is key to thriving in any work environment. I completed a formal assessment on **Workplace Etiquette**, which focused on:  
 
-- Professional communication  
-- Punctuality and time management  
-- Handling confidential information  
-- Appropriate use of personal devices  
+- Communicating respectfully and clearly  
+- Being punctual and managing time effectively  
+- Safeguarding confidential information  
+- Using personal devices appropriately at work  
 
-The assessment confirmed my understanding of these critical professional behaviors.
+This assessment confirmed my ability to understand and apply these essential workplace practices.
+
 
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/d43ee339-f0b2-45a9-87e5-5652784d6b1b" />
-
 
 ---
 
 ✍️ **Reflection (STAR Technique)**
 
 **⭐ Situation:**  
-During my 12-month internship, I was actively applying the principles of professional conduct in a real-world setting. The Workplace Etiquette module provided a framework for the behaviors expected in a corporate environment.
+During my ongoing internship, I encounter real-world scenarios that require strong professional conduct. The Workplace Etiquette course gave me a clear guide on how to act responsibly and respectfully in a corporate setting.
 
 **🎯 Task:**  
-My goal was to internalize the rules of professional etiquette and consistently demonstrate them in my daily work, aiming to build trust, reliability, and positive relationships with colleagues and supervisors.
+My aim was to not only learn the theory but also apply it consistently in my daily work. I wanted to demonstrate professionalism, reliability, and a collaborative attitude that would positively impact my team and workplace culture.
 
 **⚙️ Action:**  
-- Studied course material carefully, focusing on digital communication, conflict resolution, and ethical conduct  
-- Applied lessons in practice: arriving early for meetings, handling sensitive information responsibly, and prioritizing work tasks over personal device use  
-- Sought feedback from supervisors to ensure alignment with company expectations  
-- Adapted my behavior to meet team and organizational norms  
+- Studied course content thoroughly, focusing on communication, ethics, and proper workplace behavior  
+- Practiced punctuality by arriving early to meetings and deadlines  
+- Handled sensitive information with care and avoided unnecessary distractions from personal devices  
+- Requested feedback from supervisors to improve my workplace interactions  
 
 **✅ Result:**  
-I successfully demonstrated professional etiquette in my internship, earning trust from colleagues and supervisors. These practices strengthened workplace relationships, allowed me to handle confidential tasks responsibly, and contributed to a positive team environment.
+By applying these principles daily, I built trust with colleagues and supervisors. I became known as someone who is reliable, respectful, and attentive to workplace norms. My professional conduct contributed to a more collaborative and positive team environment.
 
 ---
 
-💡 **Key Competencies Demonstrated:**
+💡 **Key Skills Developed:**
 
-- Professional Decorum & Punctuality  
-- Ethical Conduct & Confidentiality  
-- Effective Interpersonal Communication  
-- Adaptability in a Corporate Environment  
+- Professional Behavior & Time Management  
+- Ethical Decision-Making & Confidentiality  
+- Effective Communication & Interpersonal Skills  
+- Adaptability and Responsiveness in a Team Setting  
 
-This experience reinforced the importance of professional conduct and helped shape my identity as a dependable and respectful team member.
+This experience highlighted that workplace etiquette is more than rules—it’s about fostering trust, respect, and effective collaboration.
+
 
