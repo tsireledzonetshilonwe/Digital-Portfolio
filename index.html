@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>Tsireledzo Netshilonwe — Software Developer</title>
 <meta name="description" content="Portfolio of Tsireledzo Netshilonwe, software development intern working across Java, React and TypeScript.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -57,9 +57,12 @@
   header{
     position:sticky; top:0; z-index:50;
     background:rgba(10,42,70,0.72);
+    -webkit-backdrop-filter:blur(10px);
     backdrop-filter:blur(10px);
     border-bottom:1px solid transparent;
     transition:border-color .25s ease, background .25s ease;
+    /* respect device safe area (iPhone notch/statusbar) */
+    padding-top: env(safe-area-inset-top);
   }
   header.scrolled{
     border-bottom-color:var(--line-faint);
@@ -90,7 +93,7 @@
     transition:background .2s ease, border-color .2s ease;
   }
   .nav-cta:hover{background:var(--accent-soft); border-color:var(--accent);}
-  .nav-toggle{display:none; background:none; border:none; color:var(--ink); cursor:pointer;}
+  .nav-toggle{display:none; background:none; border:none; color:var(--ink); cursor:pointer; padding:10px; border-radius:6px; z-index:70;}
 
   /* ---------- HERO ---------- */
   .hero{
@@ -221,11 +224,13 @@
     color:var(--ink-muted) !important;
     border:1px solid var(--line-faint);
     border-radius:50%;
-    width:30px; height:30px;
+    width:clamp(30px, 8vw, 40px); height:clamp(30px, 8vw, 40px);
     display:flex; align-items:center; justify-content:center;
-    transition:border-color .2s ease, color .2s ease;
+    transition:border-color .2s ease, color .2s ease, transform .12s ease;
+    background:transparent;
   }
-  .card-link:hover{border-color:var(--accent); color:var(--accent) !important;}
+  .card-link svg{width:60%; height:60%; display:block; stroke:currentColor;}
+  .card-link:hover{border-color:var(--accent); color:var(--accent) !important; transform:translateY(-2px);}
   .card p{color:var(--ink-muted); font-size:14.5px; margin:0;}
   .card-tags{display:flex; flex-wrap:wrap; gap:8px;}
   .tag-pill{
@@ -306,7 +311,8 @@
 
     /* Make header navigation slide-down for smaller screens */
     .nav-links{
-      position:fixed; top:68px; left:0; right:0;
+      position:fixed; top:calc(68px + env(safe-area-inset-top)); left:0; right:0; width:100%;
+      height:calc(100vh - calc(68px + env(safe-area-inset-top)));
       background:rgba(10,42,70,0.98);
       flex-direction:column; align-items:flex-start;
       padding:24px 32px; gap:20px;
@@ -314,6 +320,8 @@
       transform:translateY(-120%);
       transition:transform .25s ease;
       z-index:60;
+      overflow-y:auto;
+      -webkit-overflow-scrolling:touch;
     }
     .nav-links.open{transform:translateY(0);}    
     .nav-toggle{display:block;}
@@ -429,7 +437,7 @@
         <div class="card">
           <div class="card-top">
             <h3>Baby Cotton Club</h3>
-            <a class="card-link" href="https://github.com/tsireledzonetshilonwe/BabyCottonClubFrontEnd" target="_blank" rel="noopener" aria-label="Open repository">↗</a>
+            <a class="card-link" href="https://github.com/tsireledzonetshilonwe/BabyCottonClubFrontEnd" target="_blank" rel="noopener" aria-label="Open repository"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M14 3h7v7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 14L21 3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M21 21H3V3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
           </div>
           <p>Capstone team project — the front end for a retail/e-commerce platform, paired with a Java backend built alongside classmates.</p>
           <div class="card-tags"><span class="tag-pill">JavaScript</span><span class="tag-pill">Team capstone</span></div>
@@ -438,7 +446,7 @@
         <div class="card">
           <div class="card-top">
             <h3>Task API</h3>
-            <a class="card-link" href="https://github.com/tsireledzonetshilonwe/task-2" target="_blank" rel="noopener" aria-label="Open repository">↗</a>
+            <a class="card-link" href="https://github.com/tsireledzonetshilonwe/task-2" target="_blank" rel="noopener" aria-label="Open repository"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M14 3h7v7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 14L21 3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M21 21H3V3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
           </div>
           <p>A CRUD to-do service built on Java and Spring Boot, scaffolded from a bare application through to a working API.</p>
           <div class="card-tags"><span class="tag-pill">Java</span><span class="tag-pill">Spring Boot</span></div>
@@ -447,7 +455,7 @@
         <div class="card">
           <div class="card-top">
             <h3>Quick Health Hub</h3>
-            <a class="card-link" href="https://github.com/tsireledzonetshilonwe/quick-health-hub" target="_blank" rel="noopener" aria-label="Open repository">↗</a>
+            <a class="card-link" href="https://github.com/tsireledzonetshilonwe/quick-health-hub" target="_blank" rel="noopener" aria-label="Open repository"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M14 3h7v7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 14L21 3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M21 21H3V3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
           </div>
           <p>A TypeScript front end for a healthcare-focused application, built to pair with a Java backend service.</p>
           <div class="card-tags"><span class="tag-pill">TypeScript</span></div>
@@ -457,7 +465,7 @@
         <div class="card">
           <div class="card-top">
             <h3>Ngobe Exalt Group</h3>
-            <a class="card-link" href="https://www.ngobeexalt.com/" target="_blank" rel="noopener" aria-label="Visit live site">↗</a>
+            <a class="card-link" href="https://www.ngobeexalt.com/" target="_blank" rel="noopener" aria-label="Visit live site"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M14 3h7v7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 14L21 3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M21 21H3V3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
           </div>
           <p>Live procurement and technical-services platform for Plum Systems — bulk ordering, a technician site-visit workflow, and admin/staff consoles, on a Java Spring Boot backend. Recent work: closing a client-side input vulnerability in the order flow by deriving delivery fees server-side instead of trusting client input.</p>
           <div class="card-tags"><span class="tag-pill">Java</span><span class="tag-pill">Spring Boot</span><span class="tag-pill">Security</span></div>
