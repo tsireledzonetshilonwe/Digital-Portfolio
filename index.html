@@ -303,6 +303,8 @@
     .title-block{grid-template-columns:repeat(2, 1fr);}
     .contact-rows{grid-template-columns:1fr;}
     .contact-panel{padding:32px 24px;}
+
+    /* Make header navigation slide-down for smaller screens */
     .nav-links{
       position:fixed; top:68px; left:0; right:0;
       background:rgba(10,42,70,0.98);
@@ -311,9 +313,42 @@
       border-bottom:1px solid var(--line-faint);
       transform:translateY(-120%);
       transition:transform .25s ease;
+      z-index:60;
     }
-    .nav-links.open{transform:translateY(0);}
+    .nav-links.open{transform:translateY(0);}    
     .nav-toggle{display:block;}
+
+    /* Easier tapping on buttons on touch devices */
+    .btn{padding:12px 18px; font-size:15px;}
+  }
+
+  /* Tablet and large phones */
+  @media (max-width: 600px){
+    .hero{padding-top:56px;}
+    .hero-inner{padding:40px 0 32px;}
+    .title-block{grid-template-columns:1fr;}
+    .tb-cell{padding:12px 14px;}
+    .tb-value{font-size:14px;}
+    .role-line{font-size:16px;}
+    .stack-row{gap:8px;}
+    .chip{font-size:12px; padding:6px 10px;}
+  }
+
+  /* Small phones */
+  @media (max-width: 480px){
+    .wrap{padding:0 20px;}
+    .hero{padding-top:48px;}
+    .hero-inner{padding:28px 0 20px;}
+    h1.name{font-size:32px;}
+    .role-line{font-size:14px;}
+    .title-block{grid-template-columns:1fr;}
+    .tb-cell{padding:10px 12px;}
+    .tb-value{font-size:13px;}
+    .stack-row{gap:6px;}
+    .chip{font-size:11px; padding:5px 8px;}
+    .btn{width:100%; justify-content:center;}
+    .card{padding:20px;}
+    .contact-panel{padding:20px;}
   }
 </style>
 </head>
@@ -348,7 +383,7 @@
       <div class="hero-inner">
         <div class="eyebrow-line"><span class="rule"></span><span class="mono">Johannesburg &amp; Cape Town, South Africa</span></div>
         <h1 class="name">Tsireledzo Netshilonwe</h1>
-        <p class="role-line">Software developer building <strong>backend systems</strong>, <strong>interfaces</strong>, and the occasional <strong>security fix</strong> — currently interning at Plum Systems.</p>
+        <p class="role-line">Software developer building <strong>backend systems</strong>, <strong>interfaces</strong>, and the occasional <strong>security fix</strong> — completed an internship at Plum Systems (Dec 2025).</p>
         <div class="stack-row">
           <span class="chip">Java</span>
           <span class="chip">Spring Boot</span>
@@ -366,7 +401,7 @@
         <div class="title-block">
           <div class="tb-cell">
             <div class="tb-label">ROLE</div>
-            <div class="tb-value">Software Dev Intern, Plum Systems</div>
+            <div class="tb-value">Software Dev Intern (Dec 2025), Plum Systems</div>
           </div>
           <div class="tb-cell">
             <div class="tb-label">EDUCATION</div>
@@ -441,13 +476,13 @@
       </div>
       <div class="about-grid">
         <div class="about-copy">
-          <p><strong>I graduated from Cape Peninsula University of Technology</strong> with an ICT Applications Development qualification (NQF Level 6), and I'm now working as a Software Development Intern at Plum Systems, based between Gauteng and Cape Town.</p>
+          <p><strong>I graduated from Cape Peninsula University of Technology</strong> with an ICT Applications Development qualification (NQF Level 6), and I completed a Software Development internship at Plum Systems (ended Dec 2025), based between Gauteng and Cape Town.</p>
           <p>My day-to-day work sits mostly in <strong>Java and Spring Boot</strong> on the backend and <strong>React, Redux and TypeScript</strong> on the front end, backed by SQL and REST APIs. I'm comfortable across the stack, but I care most about the parts where correctness and security actually matter — validating input server-side rather than trusting the client, for instance.</p>
         </div>
         <div class="facts">
           <div class="fact">
-            <div class="fact-label">CURRENT ROLE</div>
-            <div class="fact-value">Software Development Intern, Plum Systems</div>
+            <div class="fact-label">RECENT ROLE</div>
+            <div class="fact-value">Software Development Intern (ended Dec 2025), Plum Systems</div>
           </div>
           <div class="fact">
             <div class="fact-label">EDUCATION</div>
